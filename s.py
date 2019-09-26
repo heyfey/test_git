@@ -6,3 +6,4 @@ msvcrt.printf(b"%s", message_string)
 
 print("dsddsdwdw")
 print("test commit & push in branch2")
+print("test workstation on PP course..")
